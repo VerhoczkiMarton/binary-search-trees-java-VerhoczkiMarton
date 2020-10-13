@@ -13,7 +13,7 @@
     <properties>
         <version.java>1.8</version.java>
         <version.maven.compiler.plugin>3.1</version.maven.compiler.plugin>
-        <version.junit>4.11</version.junit>
+        <version.junit>4.13.1</version.junit>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
